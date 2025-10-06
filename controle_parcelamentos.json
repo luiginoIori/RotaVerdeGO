@@ -1,0 +1,36 @@
+[
+  {
+    "tipo_operacao": "parcelamento",
+    "registro_original_id": "90492e604641",
+    "valor_original": 40000.0,
+    "valor_novo_total": 40000.0,
+    "quantidade_parcelas": 2,
+    "data_primeira_parcela": "2025-10-04",
+    "timestamp": "2025-10-04 12:03:56",
+    "descricao_parcelamento": "Juros",
+    "situacao": null,
+    "prioridade": 1,
+    "parcelas": [
+      {
+        "numero_parcela": "1/2",
+        "valor_parcela": 20000.0,
+        "data_vencimento": "2025-10-04",
+        "id_parcela": "2c1228404751",
+        "status_parcela": "criada_original",
+        "fornecedor": "V. IORI ADVISORY LTDA",
+        "filial": "101.0",
+        "titulo_original": "54.0"
+      },
+      {
+        "numero_parcela": "2/2",
+        "valor_parcela": 20000.0,
+        "data_vencimento": "2025-11-04",
+        "id_parcela": "e8bd91d432ec",
+        "status_parcela": "criada_nova",
+        "fornecedor": "V. IORI ADVISORY LTDA",
+        "filial": "101.0",
+        "titulo_original": "54.0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "data_consolidacao": "2025-10-03 14:30:51",
+  "saldos": {
+    "Bradesco": {
+      "saldo_final": 60781.34,
+      "erro": [
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB",
+        "Nenhum dado válido encontrado no arquivo BB"
+      ]
+    },
+    "REAG": {
+      "saldo_final": 78510.79,
+      "transacoes": 3071,
+      "erro": null
+    },
+    "BB": {
+      "saldo_final": 17239.75,
+      "transacoes": 17,
+      "erro": null
+    }
+  },
+  "totalizacao": {
+    "total_geral": 156531.88,
+    "total_bancos": 3
+  }
+}
