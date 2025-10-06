@@ -17,9 +17,9 @@ class AuthenticationSystem:
     def __init__(self):
         # Hashes das senhas (mesmo do validador)
         self._valid_hashes = {
-            # Senha: "RotaVerde2024"
+            
             "admin": "d11731c1c03db2872d25d0e07216feee575f8c3331959f80afee75c11cba16c2",
-            # Senha: "FluxoCaixa@2024"  
+              
             "user": "a624f590de259c65cfd7860e881fc54806c24308c0590e716dcd4ba662d8b429"
         }
         self._salt = "rota_verde_salt_2024"
