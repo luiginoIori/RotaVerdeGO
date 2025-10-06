@@ -19,9 +19,10 @@ class PasswordValidator:
         # Hashes seguros das senhas válidas (SHA-256)
         # Para adicionar nova senha: hashlib.sha256("sua_senha".encode()).hexdigest()
         self._valid_hashes = {
-            # Senha padrão: "RotaVerde2024"
+            
+            
             "admin": "d11731c1c03db2872d25d0e07216feee575f8c3331959f80afee75c11cba16c2",
-            # Senha alternativa: "FluxoCaixa@2024"
+           
             "user": "a624f590de259c65cfd7860e881fc54806c24308c0590e716dcd4ba662d8b429"
         }
         
